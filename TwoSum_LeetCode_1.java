@@ -14,7 +14,7 @@ class Solution {
 }
 
 /*
-                               Example
+
 import java.util.HashMap;
 import java.util.Arrays;
 class Solution {
